@@ -5,7 +5,7 @@ from typing import List
 
 def get_requirements()-> List[str]:
   """This function will return the list of requirements"""
-  requirements_list = List[str] = []
+  requirements_list : List[str] = []
 
 
 
